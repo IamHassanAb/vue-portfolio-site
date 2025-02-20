@@ -14,12 +14,13 @@ data-scientist-portfolio
 ├── src
 │   ├── assets
 │   │   └── styles
-│   │       └── neumorphism.css  # CSS styles implementing Neumorphism design
+│   │       └── style.css  # CSS styles implementing Neumorphism design
 │   ├── components
 │   │   ├── About.vue       # Component displaying information about the data scientist
 │   │   ├── Contact.vue     # Component providing contact information
 │   │   ├── Home.vue        # Component serving as the landing page
-│   │   └── Projects.vue    # Component listing the data scientist's projects
+│   │   ├── Projects.vue    # Component listing the data scientist's projects
+|   |   └── 
 │   ├── views
 │   │   ├── AboutView.vue   # View using the About component
 │   │   ├── ContactView.vue # View using the Contact component
